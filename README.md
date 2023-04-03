@@ -11,7 +11,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Patient and Physician Visits Handling Program using Data Structures and Algorithms in C++
 - Portable Charger Electronic Device Design
 - Elevator Circuit Emulation Design in Multisim
-- Blood Donation Non-Profit Database Management System
+- Blood Donation Non-Profit Database
 - Mini Facebook Web Application using Java, JSPs, Tomcat, and MySQL
 - Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++
 
