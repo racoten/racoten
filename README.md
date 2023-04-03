@@ -1,9 +1,3 @@
-
-- 👀 I’m interested in Red Team Development 
-- 🌱 I’m currently learning how to develop tools in C# or Go to evade EDR and "bypass" ASR Rules
-- 💞️ I’m looking to collaborate on anything related on AMSI Patching, ETW Patching, DLL Unhooking, Shellcode loaders/injectors
-- 📫 How to reach me LinkedIn: Carlos Roque 
-
 # Superstar's Portfolio
 
 ## Introduction
@@ -18,7 +12,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Portable Charger Electronic Device Design
 - Elevator Circuit Emulation Design in Multisim
 - Blood Donation Non-Profit Database Management System
-- Mini Facebook Web Application using JSPs, Tomcat, and MySQL
+- Mini Facebook Web Application using Java, JSPs, Tomcat, and MySQL
 - Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++
 
 ## Technologies and Skills
@@ -29,12 +23,12 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Web development
 - Operating systems algorithms and data structures
 
+## Specific Interests
 - 👀 I’m interested in Red Team Development 
 - 🌱 I’m currently learning how to develop tools in C# or Go to evade EDR and "bypass" ASR Rules
 - 💞️ I’m looking to collaborate on anything related on AMSI Patching, ETW Patching, DLL Unhooking, Shellcode loaders/injectors
-- 📫 How to reach me LinkedIn: Carlos Roque 
 
 ## Contact Information
-- Email: [insert your email here]
-- LinkedIn: [insert your LinkedIn profile link here]
+- LinkedIn: https://www.linkedin.com/in/carlos-roque-87928316b/
+- Discord: Superstar#4493
 
