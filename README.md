@@ -17,7 +17,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 
 ## Technologies and Skills
 ![C++ logo]()
-![Java logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F13679%2Fjava&psig=AOvVaw3a1HmsVJm_RfygJNo6keHG&ust=1680615528554000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOD5gO3qjf4CFQAAAAAdAAAAABAE)
+![Java logo](https://img.icons8.com/color/256/java-coffee-cup-logo--v1.png)
 ![Python logo]()
 ![Rust logo]()
 ![Go logo]()
