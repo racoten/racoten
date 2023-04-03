@@ -16,12 +16,12 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++
 
 ## Technologies and Skills
-![C++ logo](https://www.pngfind.com/pngs/m/482-4828417_file-c-logo-svg-c-logo-svg-hd.png "C++")
-![Java logo](https://www.pinclipart.com/picdir/big/8-87898_java-logo-icon-png-download-java-logo-clipart.png "Java")
-![Python logo](https://icon-library.com/images/python-icon/python-icon-0.jpg "Python")
-![Rust logo](https://avatars.githubusercontent.com/u/54309052?s=200&v=4 "Rust")
-![Go logo](https://www.clipartmax.com/png/small/39-392202_go-gopher-svg.png "Go")
-![C# logo](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png "C#")
+![C++ logo]()
+![Java logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F13679%2Fjava&psig=AOvVaw3a1HmsVJm_RfygJNo6keHG&ust=1680615528554000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOD5gO3qjf4CFQAAAAAdAAAAABAE)
+![Python logo]()
+![Rust logo]()
+![Go logo]()
+![C# logo]()
 - Programming languages: C, C++, Java, Python, Rust, Go, C#
 - Cybersecurity
 - Logic circuits
