@@ -16,7 +16,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++
 
 ## Technologies and Skills
-![C++ logo](![image](https://user-images.githubusercontent.com/40224197/229527216-3a748ba7-2cea-45b3-ad18-5d024becbeb4.png))
+![C++ logo](![image](https://user-images.githubusercontent.com/40224197/229527273-50c6e592-e253-4a21-9334-1073c4a1849f.png))
 ![Java logo](https://img.icons8.com/color/256/java-coffee-cup-logo--v1.png)
 ![Python logo]()
 ![Rust logo]()
