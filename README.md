@@ -2,7 +2,6 @@
 
 ## Introduction
 I am a recent computer engineering graduate with expertise in programming and cyber security. In this portfolio, I showcase some of the projects I have worked on during my studies, which cover a variety of topics and technologies.
-![image](https://user-images.githubusercontent.com/40224197/229530687-3ef1791a-cd02-4cf1-a66e-9930a789af52.png)
 
 ## Projects
 - Backdoor Server/Client in Python
