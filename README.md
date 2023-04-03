@@ -22,6 +22,12 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Database management
 - Web development
 - Operating systems algorithms and data structures
+- Network Architecture and Design
+- Help-Desk Support
+
+## Job Experience
+- English tutor, helping students with their conversational English
+- IT Technician, responsible for networking tasks, VPN configurations, cloud infrastructure, and help desk support
 
 ## Specific Interests
 - 👀 I’m interested in Red Team Development 
