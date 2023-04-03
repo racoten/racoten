@@ -16,7 +16,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++
 
 ## Technologies and Skills
-![image](https://user-images.githubusercontent.com/40224197/229528526-f40e8e34-e0c6-4b91-8d71-794875822a5e.png = 250x250)
+![image](https://user-images.githubusercontent.com/40224197/229528526-f40e8e34-e0c6-4b91-8d71-794875822a5e.png)
 
 
 - Programming languages: C, C++, Java, Python, Rust, Go, C#
