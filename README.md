@@ -2,6 +2,7 @@
 
 ## Introduction
 I am a recent computer engineering graduate with expertise in programming and cyber security. In this portfolio, I showcase some of the projects I have worked on during my studies, which cover a variety of topics and technologies.
+![Uploading image.png…]()
 
 ## Projects
 - Backdoor Server/Client in Python
@@ -24,6 +25,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Database management
 - Web development
 - Operating systems algorithms and data structures
+- Linux
 
 ## Job Experience
 ![English Tutor logo](https://cdn.dribbble.com/users/529184/screenshots/3239744/online-tutoring-logo.jpg "English Tutor")
