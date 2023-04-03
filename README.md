@@ -17,11 +17,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 
 ## Technologies and Skills
 ![C++ logo](https://user-images.githubusercontent.com/40224197/229527273-50c6e592-e253-4a21-9334-1073c4a1849f.png)
-![Java logo](https://img.icons8.com/color/256/java-coffee-cup-logo--v1.png)
-![Python logo]()
-![Rust logo]()
-![Go logo]()
-![C# logo]()
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 - Programming languages: C, C++, Java, Python, Rust, Go, C#
 - Cybersecurity
 - Logic circuits
