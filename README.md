@@ -27,10 +27,7 @@ I am a recent computer engineering graduate with expertise in programming and cy
 - Linux
 
 ## Job Experience
-![English Tutor logo](https://cdn.dribbble.com/users/529184/screenshots/3239744/online-tutoring-logo.jpg "English Tutor")
 - English tutor, helping students with their conversational English
-
-![IT Technician logo](https://cdn4.iconfinder.com/data/icons/technology-devices-1/512/Server-512.png "IT Technician")
 - IT Technician, responsible for networking tasks, VPN configurations, cloud infrastructure, and help desk support
 
 ## Specific Interests
