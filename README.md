@@ -37,5 +37,5 @@ I am a recent computer engineering graduate with expertise in programming and cy
 
 ## Contact Information
 - LinkedIn: https://www.linkedin.com/in/carlos-roque-87928316b/
-- Discord: Superstar#4493
+- Discord: Racoten
 
