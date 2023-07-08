@@ -1,4 +1,4 @@
-# Superstar's Portfolio
+# Racoten's Portfolio
 
 ## Introduction
 I am a recent computer engineering graduate with expertise in programming and cyber security. In this portfolio, I showcase some of the projects I have worked on during my studies, which cover a variety of topics and technologies.
