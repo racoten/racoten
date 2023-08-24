@@ -36,6 +36,5 @@ I am a computer engineering student with expertise in programming and cyber secu
 - 💞️ I’m looking to collaborate on anything related on AMSI Patching, ETW Patching, DLL Unhooking, Shellcode loaders/injectors
 
 ## Contact Information
-- LinkedIn: https://www.linkedin.com/in/carlos-roque-87928316b/
 - Discord: Racoten
 
