@@ -36,5 +36,4 @@ I am a computer engineer with focus on programming and cyber security. In this p
 - 💞️ I’m looking to collaborate on anything related on AMSI Patching, ETW Patching, DLL Unhooking, Shellcode loaders/injectors
 
 ## Contact Information
-- Discord: _redecode_
-
+- Discord: _racoten_
