@@ -25,11 +25,17 @@ I am a computer engineer with focus on programming and cyber security. In this p
   -   C, C++, Java, Python, Rust, Go and C#
   -   .NET Framework
   -   Android Studio
+  -   Visual Studio
+  -   Visual Studio Code
   -   MySQL and SQLite
   -   Ansible
   -   Git
   -   TeamCity
   -   Gitlabs
+  -   Ghidra
+  -   Immunity Debugger
+  -   x64dbg and x86dbg
+  -   Process Hacker
 - IT Support
 - Report Writing
 - Well Spoken
