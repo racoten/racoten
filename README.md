@@ -9,7 +9,7 @@ I am a computer engineer with focus on programming and cyber security. In this p
 - Backdoor Server/Client in Python [TheBackdoorProject](https://github.com/racoten/TheBackdoorProject)
 - Command & Control Framework in C# and Go (Private)
 - Mini Facebook Web Application using Java, JSPs, Tomcat, and MySQL [Mini Facebook](https://github.com/racoten/ROOT)
-- Operating Systems Scheduling and Memory/Disk Allocation Algorithms Implementation using Data Structures in C++ [Operating Systems Project](https://github.com/racoten/Proyecto_Operating_Systems)
+- Operating Systems Algorithms Implementation using Data Structures in C++ [Operating Systems Project](https://github.com/racoten/Proyecto_Operating_Systems)
 - Digital Clock using Logic Circuits and Multisim
 - Doctor Appointment Registration Program using Visual Basic
 - Patient and Physician Visits Handling Program using Data Structures & Algorithms in C++
