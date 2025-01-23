@@ -38,6 +38,8 @@ I am a computer engineer with focus on programming and cyber security. In this p
 - Pentesting / Ethical Hacking / Red Teaming
 - Vulnerability Assessment
 - Malware Development
+- Reverse Engineering
+- Malware Analysis
 - Kali Linux
 - Microsoft Defender for Endpoint
 - Microsoft Sentinel
