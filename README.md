@@ -1,5 +1,6 @@
 # Racoten's Portfolio
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=racoten&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=racoten&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## Introduction
 I am a computer engineer with focus on programming and cyber security. In this portfolio, I showcase some of the projects I have worked on during my studies, which cover a variety of topics & technologies.
 
