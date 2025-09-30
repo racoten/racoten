@@ -8,7 +8,7 @@ I am a computer engineer with focus on programming and cyber security. In this p
 - Execute .NET Assemblies In-memory and Bypass ETW & AMSI [BetterNetLoader](https://github.com/racoten/BetterNetLoader)
 - Protecting Memory Regions with [PageNoAccess-SectionHider](https://github.com/racoten/PageNoAccess-SectionHider)
 - Achilles Remote Administration Tool for Sysadmins (Private)
-- Command & Control Framework in C# and Go (Private)
+- Command & Control Framework in C# and Go [Capstone] (https://github.com/racoten/Capstone)
 - Mini Facebook Web Application using Java, JSPs, Tomcat, and MySQL [Mini Facebook](https://github.com/racoten/ROOT)
 - Operating Systems Algorithms Implementation using Data Structures in C++ [Operating Systems Project](https://github.com/racoten/Proyecto_Operating_Systems)
 - Digital Clock using Logic Circuits and Multisim
