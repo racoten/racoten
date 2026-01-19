@@ -1,79 +1,99 @@
-# Racoten's Portfolio
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=racoten&show_icons=true)
+# Racoten — Portfolio
 
---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-## Introduction
-I am a computer engineer with focus on programming and cyber security. In this portfolio, I showcase some of the projects I have worked on during my studies, which cover a variety of topics & technologies.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=racoten&show_icons=true&theme=dark)
 
-## Projects
-- Execute .NET Assemblies In-memory and Bypass ETW & AMSI [BetterNetLoader](https://github.com/racoten/BetterNetLoader)
-- Protecting Memory Regions with [PageNoAccess-SectionHider](https://github.com/racoten/PageNoAccess-SectionHider)
-- Achilles Remote Administration Tool for Sysadmins (Private)
-- Command & Control Framework in C# and Go [Capstone](https://github.com/racoten/Capstone)
-- Mini Facebook Web Application using Java, JSPs, Tomcat, and MySQL [Mini Facebook](https://github.com/racoten/ROOT)
-- Operating Systems Algorithms Implementation using Data Structures in C++ [Operating Systems Project](https://github.com/racoten/Proyecto_Operating_Systems)
-- Digital Clock using Logic Circuits and Multisim
-- Doctor Appointment Registration Program using Visual Basic
-- Patient and Physician Visits Handling Program using Data Structures & Algorithms in C++
-- Portable Charger Electronic Device Design using Multisim
-- Elevator Circuit Emulation Design in Multisim
-- Blood Donation Non-Profit Database for MySQL
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=racoten&theme=onedark&no-frame=true&margin-w=10)
 
-## Technologies and Skills
-<img src="https://user-images.githubusercontent.com/40224197/229528526-f40e8e34-e0c6-4b91-8d71-794875822a5e.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229529377-33155a38-807f-44de-8f2e-7d5c890624d2.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229529544-595ca4ae-495c-4fb0-aef6-4cb1108481a4.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229529735-c0a4411a-09de-42fc-a43d-3f052bcf3760.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229529818-f0c18d93-7a31-4d6b-802e-76ba214ebc63.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229530687-3ef1791a-cd02-4cf1-a66e-9930a789af52.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229531018-1ea52d32-17d6-43d1-b2e4-1142168429b6.png" alt="image" width="24"/> <img src="https://user-images.githubusercontent.com/40224197/229531380-2710bf2b-2ea7-4c24-be14-1c15238ba3f6.png" alt="image" width="24"/> 
+---
 
-### General
-- Programming:
-  -   C, C++, Java, Python, Rust, Go and C#
-  -   .NET Framework
-  -   Android Studio
-  -   Visual Studio
-  -   Visual Studio Code
-  -   MySQL and SQLite
-  -   Ansible
-  -   Git
-  -   TeamCity
-  -   Gitlabs
-  -   Ghidra
-  -   Immunity Debugger
-  -   x64dbg and x86dbg
-  -   Process Hacker
-- IT Support
-- Report Writing
-- Well Spoken
+## Overview
+
+Computer engineer focused on **low-level programming, offensive security, and system internals**.  
+This portfolio reflects hands-on work across malware development, red team tooling, operating systems, and full-stack engineering. Everything here was built to understand how systems actually work—and how they break.
+
+---
+
+## Selected Projects
+
+- **Execute .NET assemblies fully in-memory while bypassing ETW & AMSI**  
+  → [BetterNetLoader](https://github.com/racoten/BetterNetLoader)
+
+- **Protect executable memory regions using PAGE_NOACCESS + section hiding**  
+  → [PageNoAccess-SectionHider](https://github.com/racoten/PageNoAccess-SectionHider)
+
+- **Achilles Remote Administration Tool**  
+  Sysadmin-focused RAT with offensive design principles *(private)*
+
+- **Command & Control Framework (C# / Go)**  
+  Modular C2 architecture with custom agents and transport  
+  → [Capstone](https://github.com/racoten/Capstone)
+
+- **Mini Facebook Clone**  
+  Java, JSP, Tomcat, MySQL  
+  → [Mini Facebook](https://github.com/racoten/ROOT)
+
+- **Operating Systems Algorithms & Data Structures (C++)**  
+  → [Operating Systems Project](https://github.com/racoten/Proyecto_Operating_Systems)
+
+- Digital clock designed with logic circuits (Multisim)
+- Doctor appointment registration system (Visual Basic)
+- Patient & physician visit management using data structures & algorithms (C++)
+- Portable charger electronic design (Multisim)
+- Elevator control circuit emulation (Multisim)
+- Blood donation non-profit database (MySQL)
+
+---
+
+## Technologies & Tooling
+
+### Programming & Systems
+
+- **Languages:** C, C++, C#, Go, Rust, Java, Python  
+- **Frameworks & Platforms:** .NET, Android Studio  
+- **Databases:** MySQL, SQLite  
+- **Tooling:**  
+  Visual Studio, Visual Studio Code, Git, GitLab, TeamCity, Ansible  
+- **Reverse Engineering & Debugging:**  
+  Ghidra, Immunity Debugger, x64dbg / x86dbg, Process Hacker  
 
 ### Cybersecurity
-- Pentesting / Ethical Hacking / Red Teaming
-- Vulnerability Assessment
-- Malware Development
+
+- Red Teaming / Offensive Security
+- Malware Development & Analysis
 - Reverse Engineering
-- Malware Analysis
-- Kali Linux
+- Vulnerability Assessment
+- Network Security
+- SIEM / SOAR
 - Microsoft Defender for Endpoint
 - Microsoft Sentinel
 - Kaspersky & Trend Micro
-- Network Security
-- SIEM/SOAR Solutions
+- Kali Linux
 
 ### Computer Engineering
-- Cloud App Development & Deployment
-- Electrical & Logic Circuits
-- Database Management & Development
-- Desktop & Web Development
-- Operating Systems Development
-- Algorithms & Data Structures
-- Linux Setup, Administration & Security
-- Windows Internals Knowledge
-- Mathematics:
-  - Discrete
-  - Numerical Methods
-  - Calculus 1 & 2
 
-## Specific Interests
-- 👀 I’m interested in Red Team Development 
-- 🌱 I’m currently learning how to develop tools in C/C++, C# or Go to evade EDR and "bypass" ASR Rules
-- 💞️ I’m looking to collaborate on anything related on ETW/AMSI Patching, DLL Unhooking & Shellcode loaders/injectors
+- Cloud application development & deployment
+- Operating systems development
+- Algorithms & data structures
+- Linux administration & hardening
+- Windows internals
+- Electrical & logic circuit design
+- Desktop & web development
+- Database design & management
+- **Mathematics:**  
+  - Discrete Mathematics  
+  - Numerical Methods  
+  - Calculus I & II  
 
-## Contact Information
-- Discord: _racoten_
+---
+
+## Current Focus
+
+- Red team tooling and operator-grade development  
+- Building C/C++, C#, and Go tooling for **EDR evasion and ASR rule bypassing**
+- Research into **ETW/AMSI patching, DLL unhooking, loaders, and injection techniques**
+
+---
+
+## Contact
+
+- **Discord:** `_racoten_`
