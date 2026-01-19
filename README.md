@@ -2,7 +2,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=racoten&show_icons=true&theme=dark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=racoten&theme=onedark&no-frame=true&margin-w=10)
+<img
+  src="https://github-profile-trophy.vercel.app/?username=racoten&theme=onedark&no-frame=true&row=1&column=7"
+  alt="GitHub Trophies"
+/>
+
 
 ---
 
