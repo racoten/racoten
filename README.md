@@ -22,9 +22,23 @@
 
 </div>
 
----
+<div align="center">
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=racoten&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=racoten&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681" />
+
+<br/><br/>
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![x64 ASM](https://img.shields.io/badge/x64%20ASM-0d1117?style=flat-square&logo=assemblyscript&logoColor=white)
+
+<br/>
+
+---
 
 ### `> whoami`
 
@@ -36,8 +50,6 @@ Low-level tooling for offensive security — loaders, evasion primitives, C2 inf
 - Reflective loading & sleep obfuscation
 - ASR rule bypass techniques
 - COFF/BOF loader development
-
-<br clear="right"/>
 
 ---
 
@@ -115,13 +127,6 @@ INFRA         Git · Visual Studio · Ansible · TeamCity · Linux admin
 ```
 
 ---
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoten&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=racoten&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<br/><br/>
 
 `_racoten_` on Discord
 
