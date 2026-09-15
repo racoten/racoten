@@ -24,8 +24,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=racoten&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
 <br/>
 
 <img width="55%" src="https://streak-stats.demolab.com/?user=racoten&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681" />
